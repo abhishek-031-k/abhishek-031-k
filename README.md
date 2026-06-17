@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -18,6 +17,12 @@
 ![Open To Badge](https://img.shields.io/badge/🤝%20Open%20To-Collaborations-a8b2d8?style=for-the-badge&labelColor=1a1a2e&color=16213e)
 &nbsp;
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=abhishek-031-k.abhishek-031-k&style=for-the-badge&color=e94560)
+
+<br/>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-abhishkumar159-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a2e)](https://leetcode.com/u/abhishkumar159/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-abhishek--031--k-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/abhishek-031-k)
 
 </div>
 
@@ -128,7 +133,7 @@ mantra     : "Code it. Break it. Fix it. Ship it."
 
 <img src="https://skillicons.dev/icons?i=js,cpp,c,sql&perline=8&theme=dark" alt="Language Icons"/>
 
-<br/>
+<br/><br/>
 
 **⚛️ Frontend**
 
@@ -136,7 +141,7 @@ mantra     : "Code it. Break it. Fix it. Ship it."
 
 <img src="https://skillicons.dev/icons?i=react,html,css&perline=8&theme=dark" alt="Frontend Icons"/>
 
-<br/>
+<br/><br/>
 
 **🔧 Backend & Database**
 
@@ -144,7 +149,7 @@ mantra     : "Code it. Break it. Fix it. Ship it."
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=8&theme=dark" alt="Backend & DB Icons"/>
 
-<br/>
+<br/><br/>
 
 **🧰 Tools & Platforms**
 
@@ -160,6 +165,17 @@ mantra     : "Code it. Break it. Fix it. Ship it."
 <!--          [7] TROPHIES + LANGUAGE DONUT                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=abhishek-031-k&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-frame=true&no-bg=true"
+  alt="GitHub Trophies"
+  width="100%"
+/>
+
+<br/><br/>
 
 ## 🥧 Most Used Languages
 
@@ -177,7 +193,62 @@ mantra     : "Code it. Break it. Fix it. Ship it."
 <!--                  [8] FUN FACTS / CODING CARD                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
+<div align="center">
 
+### 📊 LeetCode Stats
+
+<img
+  src="https://leetcard.jacoblin.cool/abhishkumar159?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12"
+  alt="LeetCode Stats — abhishkumar159"
+  width="500"
+/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  [8b] FEATURED PROJECTS                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💬 Real-Time Chat App</h3>
+      <div align="center">
+        <a href="https://github.com/abhishek-031-k/chat" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-031-k&repo=chat&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=e94560&icon_color=a8b2d8&text_color=FFFFFF" alt="Chat App Repo Card" width="100%"/>
+        </a>
+        <br/><br/>
+        <p>⚡ Built with <strong>Socket.IO</strong> + <strong>Node.js</strong> + <strong>React</strong> for real-time bi-directional messaging. Features live user presence, message rooms, and instant delivery.</p>
+        <a href="https://github.com/abhishek-031-k/chat">
+          <img src="https://img.shields.io/badge/View%20Repo-e94560?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="View Repo"/>
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🍕 Food Delivery App</h3>
+      <div align="center">
+        <a href="https://github.com/abhishek-031-k/Food-del" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-031-k&repo=Food-del&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=e94560&icon_color=a8b2d8&text_color=FFFFFF" alt="Food Delivery Repo Card" width="100%"/>
+        </a>
+        <br/><br/>
+        <p>🛒 Full-stack food ordering platform built on the <strong>MERN stack</strong>. Includes menu browsing, cart management, order tracking, and a clean responsive UI.</p>
+        <a href="https://github.com/abhishek-031-k/Food-del">
+          <img src="https://img.shields.io/badge/View%20Repo-e94560?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="View Repo"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--           [9] ANIMATED WAVE FOOTER + VISITOR COUNTER           -->
@@ -201,7 +272,6 @@ mantra     : "Code it. Break it. Fix it. Ship it."
 
 <br/>
 
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:e94560,100:1a1a2e&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=a8b2d8&animation=twinkling&fontAlignY=65" width="100%"/>
 
