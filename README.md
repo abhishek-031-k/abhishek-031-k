@@ -128,7 +128,7 @@ mantra     : "Code it. Break it. Fix it. Ship it."
 
 <img src="https://skillicons.dev/icons?i=js,cpp,c,sql&perline=8&theme=dark" alt="Language Icons"/>
 
-<br/><br/>
+<br/>
 
 **⚛️ Frontend**
 
@@ -136,7 +136,7 @@ mantra     : "Code it. Break it. Fix it. Ship it."
 
 <img src="https://skillicons.dev/icons?i=react,html,css&perline=8&theme=dark" alt="Frontend Icons"/>
 
-<br/><br/>
+<br/>
 
 **🔧 Backend & Database**
 
@@ -144,7 +144,7 @@ mantra     : "Code it. Break it. Fix it. Ship it."
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=8&theme=dark" alt="Backend & DB Icons"/>
 
-<br/><br/>
+<br/>
 
 **🧰 Tools & Platforms**
 
@@ -160,17 +160,6 @@ mantra     : "Code it. Break it. Fix it. Ship it."
 <!--          [7] TROPHIES + LANGUAGE DONUT                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=abhishek-031-k&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-frame=true&no-bg=true"
-  alt="GitHub Trophies"
-  width="100%"
-/>
-
-<br/><br/>
 
 ## 🥧 Most Used Languages
 
@@ -188,36 +177,7 @@ mantra     : "Code it. Break it. Fix it. Ship it."
 <!--                  [8] FUN FACTS / CODING CARD                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
 
-## ⚡ Quick Facts
-
-</div>
-
-<table align="center">
-  <tr>
-    <td>🔥</td>
-    <td>Solved <strong>500+</strong> DSA problems across competitive platforms</td>
-  </tr>
-  <tr>
-    <td>🌐</td>
-    <td>Love building <strong>MERN stack</strong> apps from scratch</td>
-  </tr>
-  <tr>
-    <td>⚙️</td>
-    <td>Obsessed with <strong>clean architecture</strong> &amp; optimized algorithms</td>
-  </tr>
-  <tr>
-    <td>📚</td>
-    <td>Currently deep-diving into <strong>System Design</strong> &amp; <strong>Advanced DSA</strong></td>
-  </tr>
-  <tr>
-    <td>☕</td>
-    <td>Powered by <strong>coffee</strong> and <strong>late-night debugging sessions</strong></td>
-  </tr>
-</table>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--           [9] ANIMATED WAVE FOOTER + VISITOR COUNTER           -->
