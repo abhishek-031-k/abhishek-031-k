@@ -16,7 +16,6 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-abhishkumar159-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a2e)](https://leetcode.com/u/abhishkumar159/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-abhishek--031--k-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/abhishek-031-k)
 
 </div>
 
