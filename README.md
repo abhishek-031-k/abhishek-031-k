@@ -12,13 +12,7 @@
 
 <br/>
 
-![Focus Badge](https://img.shields.io/badge/🔭%20Current%20Focus-Full--Stack%20%26%20DSA-e94560?style=for-the-badge&labelColor=1a1a2e&color=0f3460)
-&nbsp;
-![Open To Badge](https://img.shields.io/badge/🤝%20Open%20To-Collaborations-a8b2d8?style=for-the-badge&labelColor=1a1a2e&color=16213e)
-&nbsp;
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=abhishek-031-k.abhishek-031-k&style=for-the-badge&color=e94560)
 
-<br/>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-abhishkumar159-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a2e)](https://leetcode.com/u/abhishkumar159/)
 &nbsp;
@@ -161,21 +155,7 @@ mantra     : "Code it. Break it. Fix it. Ship it."
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--          [7] TROPHIES + LANGUAGE DONUT                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=abhishek-031-k&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-frame=true&no-bg=true"
-  alt="GitHub Trophies"
-  width="100%"
-/>
-
-<br/><br/>
 
 ## 🥧 Most Used Languages
 
