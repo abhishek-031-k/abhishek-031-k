@@ -66,36 +66,20 @@ mantra     : "Code it. Break it. Fix it. Ship it."
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         GitHub Stats                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img
-        src="https://streak-stats.demolab.com?user=abhishek-031-k&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=e94560&ring=e94560&fire=a8b2d8&currStreakNum=FFFFFF&sideNums=a8b2d8&currStreakLabel=e94560&sideLabels=a8b2d8&dates=4a5568"
-        alt="GitHub Streak Stats"
-        height="185"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=abhishek-031-k&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=e94560&icon_color=a8b2d8&text_color=FFFFFF&count_private=true&include_all_commits=true"
-        alt="Abhishek's GitHub Stats"
-        height="185"
-      />
-    </td>
-  </tr>
-</table>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhishek-031-k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-031-k&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--           [5] SOLID ACTIVITY GRAPH (FULL-WIDTH AREA CHART)     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ## 📈 Contribution Activity
