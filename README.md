@@ -239,4 +239,3 @@ mantra     : "Code it. Break it. Fix it. Ship it."
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:e94560,100:1a1a2e&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=a8b2d8&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
- this is the code do what is requried and not at all
