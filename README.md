@@ -59,7 +59,7 @@ mantra     : "Code it. Break it. Fix it. Ship it."
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhishek-031-k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhishek-031-k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-031-k&theme=tokyonight&hide_border=true"/>
 </div>
 
@@ -68,7 +68,7 @@ mantra     : "Code it. Break it. Fix it. Ship it."
 <h2 align="center">📈 Contribution Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-031-k&layout=donut&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=e94560&text_color=a8b2d8&langs_count=8" alt="Most Used Languages" height="250"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-031-k&bg_color=0D1117&color=e94560&line=e94560&point=a8b2d8&area=true&hide_border=true" alt="Contribution Activity Graph" width="100%"/>
 </div>
 
 <br/>
@@ -106,7 +106,7 @@ mantra     : "Code it. Break it. Fix it. Ship it."
 <h2 align="center">🥧 Most Used Languages</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-031-k&layout=donut&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=e94560&text_color=a8b2d8&langs_count=8" alt="Most Used Languages" height="250"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhishek-031-k&layout=donut&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=e94560&text_color=a8b2d8&langs_count=8" alt="Most Used Languages" height="250"/>
 </div>
 
 <br/>
@@ -136,7 +136,7 @@ mantra     : "Code it. Break it. Fix it. Ship it."
         <h3 align="center">💬 Real-Time Chat App</h3>
         <div align="center">
           <a href="https://github.com/abhishek-031-k/chat" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-031-k&repo=chat&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=e94560&icon_color=a8b2d8&text_color=FFFFFF" alt="Chat App Repo Card" width="100%"/>
+            <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=abhishek-031-k&repo=chat&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=e94560&icon_color=a8b2d8&text_color=FFFFFF" alt="Chat App Repo Card" width="100%"/>
           </a>
           <br/><br/>
           <p>⚡ Built with <strong>Socket.IO</strong> + <strong>Node.js</strong> + <strong>React</strong> for real-time bi-directional messaging. Features live user presence, message rooms, and instant delivery.</p>
@@ -149,7 +149,7 @@ mantra     : "Code it. Break it. Fix it. Ship it."
         <h3 align="center">🍕 Food Delivery App</h3>
         <div align="center">
           <a href="https://github.com/abhishek-031-k/Food-del" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-031-k&repo=Food-del&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=e94560&icon_color=a8b2d8&text_color=FFFFFF" alt="Food Delivery Repo Card" width="100%"/>
+            <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=abhishek-031-k&repo=Food-del&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=e94560&icon_color=a8b2d8&text_color=FFFFFF" alt="Food Delivery Repo Card" width="100%"/>
           </a>
           <br/><br/>
           <p>🛒 Full-stack food ordering platform built on the <strong>MERN stack</strong>. Includes menu browsing, cart management, order tracking, and a clean responsive UI.</p>
