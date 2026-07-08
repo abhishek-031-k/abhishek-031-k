@@ -84,17 +84,16 @@ mantra     : "Code it. Break it. Fix it. Ship it."
 **💬 Languages**<br/>
 <img src="https://skillicons.dev/icons?i=js,cpp,c,sql&perline=8&theme=dark" alt="Language Icons"/>
 
-<br/><br/>
+
 
 **⚛️ Frontend**<br/>
 <img src="https://skillicons.dev/icons?i=react,html,css&perline=8&theme=dark" alt="Frontend Icons"/>
 
-<br/><br/>
+
 
 **🔧 Backend & Database**<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=8&theme=dark" alt="Backend & DB Icons"/>
 
-<br/><br/>
 
 **🧰 Tools & Platforms**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=8&theme=dark" alt="Tools Icons"/>
