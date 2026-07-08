@@ -81,16 +81,9 @@ mantra     : "Code it. Break it. Fix it. Ship it."
 
 <br/>
 <div align="center">
-
 ## 📈 Contribution Activity
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-031-k&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117&color=a8b2d8&line=e94560&point=FFFFFF&area_color=e94560&custom_title=Abhishek's%20Contribution%20Timeline"
-  alt="GitHub Activity Graph"
-  width="100%"
-/>
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-031-k&layout=donut&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=e94560&text_color=a8b2d8&langs_count=8" alt="Most Used Languages" height="250"/>
 
 <br/>
 
